@@ -1,4 +1,4 @@
-# Linktee webseit based on /forked from:
+# Linktree-type site based on /forked from:
 https://github.com/eaitae/eaitae.github.io
 
 ## License
